@@ -2,7 +2,8 @@
 
 **Prompt Engineer / AI Developer / System Architect**  
 📍 Королёв, Россия / Remote  
-📧 vgoroveckiy@gmail.com | 🐦 [@vgorovetskiy](https://t.me/vgorovetskiy)
+📧 vgoroveckiy@gmail.com | ✈️ [@vgorovetskiy](https://t.me/vgorovetskiy)
+[![Telegram](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg)](https://t.me/vgorovetskiy)
 
 ---
 
