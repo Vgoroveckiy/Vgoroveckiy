@@ -5,7 +5,7 @@
 
 📧 vgoroveckiy@gmail.com | ✈️ [@vgorovetskiy](https://t.me/vgorovetskiy)
 
-🏠 [Personal site](https://portfolio.vgorovetskiy.keenetic.pro/index.html)
+🏠 [Personal site](https://portfolio.vgorovetskiy.keenetic.pro)
 
 ---
 
