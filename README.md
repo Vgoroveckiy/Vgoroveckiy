@@ -1,6 +1,7 @@
 # 👨‍💻 Вячеслав Горовецкий
 
-**Prompt Engineer / AI Developer / System Architect**  
+***Prompt Engineer / AI Developer / System Architect***  
+
 📍 Королёв, Россия / Remote  
 
 📧 vgoroveckiy@gmail.com | ✈️ [@vgorovetskiy](https://t.me/vgorovetskiy)
